@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323120156896",
+    "project_id": "sss-java",
+    "storage_bucket": "sss-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323120156896:android:bc3ad8b051c55a5e600085",
+        "android_client_info": {
+          "package_name": "com.example.staffsupportsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323120156896-ul8loo9qv0qeclj7r91t3t9gu80pfnmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Q3-Z_XR-vs3irzK5UiJ-oizuoA_ZITg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323120156896-ul8loo9qv0qeclj7r91t3t9gu80pfnmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
